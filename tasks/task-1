@@ -1,0 +1,6 @@
+name=input("enter your name: ")
+color=input("enter your favorite color: ")
+# this output form the output with + operator 
+print("hello "+name+" your favorite color is "+color+". [its with + operator]")
+# this output form the output with f-string
+print(f"Hello {name}, your favorite color is {color}. [its with f-string]")

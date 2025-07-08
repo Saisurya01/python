@@ -1,0 +1,6 @@
+name=input("enter your name: ")
+age=input("enter your birth year: ")
+age=int(age)
+current_year=2025
+age=current_year-age
+print(f"Hello {name}, you are {age} years old in {current_year}.")
