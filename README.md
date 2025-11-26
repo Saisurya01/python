@@ -1,8 +1,9 @@
 # 📘 Python Learning Repository
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Saisurya01/python-banner.png" width="100%" alt="Python Learning Repository Banner">
+  <img src="https://raw.githubusercontent.com/Saisurya01/python/main/python-banner.png" width="100%" alt="Python Learning Repository Banner">
 </p>
+
 
 
 <p align="center">
